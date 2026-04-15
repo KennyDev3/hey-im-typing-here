@@ -1,0 +1,339 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4eca3de24a2d3943b71bfd0084f2dce, type: 3}
+  m_Name: GameSentences
+  m_EditorClassIdentifier: 
+  sentences:
+  - Veni, vidi, vici.
+  - Give me liberty, or give me death!
+  - The only thing we have to fear is fear itself.
+  - Ask not what your country can do for you; ask what you can do for your country.
+  - I have a dream.
+  - That's one small step for man, one giant leap for mankind.
+  - Power tends to corrupt, and absolute power corrupts absolutely.
+  - Let them eat cake.
+  - The unexamined life is not worth living.
+  - To be, or not to be, that is the question.
+  - She sells seashells by the seashore.
+  - Peter Piper picked a peck of pickled peppers.
+  - How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+  - Red lorry, yellow lorry.
+  - Unique New York, Unique New York.
+  - Betty Botter bought some butter.
+  - A proper copper coffee pot.
+  - Fuzzy Wuzzy was a bear.
+  - Six slippery snails slid slowly seaward.
+  - I scream, you scream, we all scream for ice cream.
+  - Twinkle, twinkle, little star.
+  - Mary had a little lamb.
+  - Humpty Dumpty sat on a wall.
+  - Jack and Jill went up the hill.
+  - Baa, baa, black sheep, have you any wool?
+  - Hey diddle diddle, the cat and the fiddle.
+  - Row, row, row your boat gently down the stream.
+  - Itsy bitsy spider climbed up the waterspout.
+  - Hickory dickory dock, the mouse ran up the clock.
+  - Rain, rain, go away, come again another day.
+  - Government of the people, by the people, for the people.
+  - The ballot is stronger than the bullet.
+  - Politics is the art of the possible.
+  - Mr. Gorbachev, tear down this wall!
+  - 'Read my lips: no new taxes.'
+  - The buck stops here.
+  - Speak softly and carry a big stick.
+  - Yes we can.
+  - It's the economy, stupid.
+  - A week is a long time in politics.
+  - Frankly, my dear, I don't give a damn.
+  - May the Force be with you.
+  - Here's looking at you, kid.
+  - I'll be back.
+  - E.T. phone home.
+  - Show me the money!
+  - You can't handle the truth!
+  - My precious.
+  - Houston, we have a problem.
+  - There's no place like home.
+  - A group of owls is called a parliament.
+  - Slugs have four noses.
+  - Butterflies taste with their feet.
+  - A shrimp's heart is in its head.
+  - Cats cannot taste sweetness.
+  - Octopuses have three hearts.
+  - Koala fingerprints are very similar to human fingerprints.
+  - Frogs cannot swallow with their eyes open.
+  - Elephants are the only mammals that can't jump.
+  - Bats are the only mammals capable of sustained flight.
+  - Sunshine
+  - Bicycle
+  - Adventure
+  - Library
+  - Chocolate
+  - Mountain
+  - Telescope
+  - Harmony
+  - Journey
+  - Whisper
+  - Pick up that can.
+  - We are leaving!
+  - It had to be me.
+  - The game was rigged from the start.
+  - You exist because we allow it. You will end because we demand it.
+  - Switching to your side arm is faster than reloading.
+  - You are finally awake.
+  - Is this the real life? Is this just fantasy?
+  - I see a little silhouetto of a man.
+  - Sweet dreams are made of this.
+  - I want to break free.
+  - It's the eye of the tiger, it's the thrill of the fight.
+  - We will, we will rock you!
+  - Staying alive, staying alive.
+  - Billie Jean is not my lover.
+  - Like a rolling stone.
+  - Imagine all the people living life in peace.
+  - Hey Jude, don't make it bad.
+  - Hit the road Jack and don't you come back no more.
+  - Smells like teen spirit.
+  - I can't get no satisfaction.
+  - I wanna dance with somebody.
+  - Take me home, country roads.
+  - Every breath you take, every move you make.
+  - Should I stay or should I go now?
+  - Sweet child o' mine.
+  - Here comes the sun, and I say it's all right.
+  - Never gonna give you up, never gonna let you down.
+  - Don't stop believin', hold on to that feelin'.
+  - Bite the bullet.
+  - Break a leg.
+  - Piece of cake.
+  - Costs an arm and a leg.
+  - Once in a blue moon.
+  - Spill the beans.
+  - Hit the nail on the head.
+  - Let the cat out of the bag.
+  - On the ball.
+  - Get something off your chest.
+  - Cut corners.
+  - Go the extra mile.
+  - The best of both worlds.
+  - Jump on the bandwagon.
+  - Method to my madness.
+  - Keep calm and carry on.
+  - This is fine.
+  - Press F to pay respects.
+  - It is what it is.
+  - Big mood.
+  - Stonks go up.
+  - Hello darkness, my old friend.
+  - Hide the pain Harold.
+  - I can has cheezburger?
+  - Doge wow much sentence.
+  - Diamond hands.
+  - Zeus rules the sky.
+  - Poseidon commands the sea.
+  - Hades rules the underworld.
+  - Medusa had snakes for hair.
+  - Beware the Minotaur's maze.
+  - Thor wields a mighty hammer.
+  - Loki loves playing tricks.
+  - Anubis weighs the heart.
+  - Pegasus is a winged horse.
+  - Unicorns are pure magic.
+  - Time flies like an arrow; fruit flies like a banana.
+  - I told my wife she was drawing her eyebrows too high. She looked surprised.
+  - Why don't scientists trust atoms? They make up everything.
+  - What do you call a lazy kangaroo? Pouch potato.
+  - I'm reading a book about anti-gravity. It's impossible to put down.
+  - Why did the bicycle fall over? It was two tired.
+  - What concert costs just 45 cents? 50 Cent featuring Nickelback.
+  - Why can't you hear a pterodactyl go to the bathroom? Because the P is silent.
+  - What do you call a fish with no eyes? Fsh.
+  - Why don't eggs tell jokes? They'd crack each other up.
+  - Want to hear a joke about construction? I'm still working on it.
+  - What has one eye but cannot see? A needle.
+  - Parallel lines have so much in common. It's a shame they'll never meet.
+  - What kind of shoes do ninjas wear? Sneakers.
+  - I used to be addicted to the hokey pokey, but I turned myself around.
+  - Know thyself.
+  - I think, therefore I am.
+  - The unexamined life is not worth living.
+  - To be is to be perceived.
+  - We are what we repeatedly do.
+  - God is dead.
+  - The only true wisdom is in knowing you know nothing.
+  - Happiness is the highest good.
+  - Dare to know!
+  - Existence precedes essence.
+  - The die is cast.
+  - I am the state.
+  - Eureka!
+  - Give me a lever long enough, and I shall move the world.
+  - The ends justify the means.
+  - No taxation without representation.
+  - We hold these truths to be self-evident.
+  - Man is born free, and everywhere he is in chains.
+  - Four score and seven years ago.
+  - The Iron Curtain has descended.
+  - How can a clam cram in a clean cream can?
+  - If a dog chews shoes, whose shoes does he choose?
+  - Irish wristwatch, Swiss wristwatch.
+  - Scissors sizzle, thistles sizzle.
+  - Pad kid poured curd pulled cold.
+  - Round the rugged rock the ragged rascal ran.
+  - I wish to wash my Irish wristwatch.
+  - Which witch is which?
+  - Selfish shellfish.
+  - Send toast to ten tense stout saints' ten tall tents.
+  - Little Miss Muffet sat on a tuffet.
+  - Pat-a-cake, pat-a-cake, baker's man.
+  - Little Bo-Peep has lost her sheep.
+  - Star light, star bright, first star I see tonight.
+  - Georgie Porgie, pudding and pie.
+  - Rub-a-dub-dub, three men in a tub.
+  - One, two, buckle my shoe.
+  - Old Mother Hubbard went to the cupboard.
+  - Sing a song of sixpence.
+  - Jack be nimble, Jack be quick.
+  - All animals are equal, but some animals are more equal than others.
+  - The price of greatness is responsibility.
+  - War is politics by other means.
+  - I am not a crook.
+  - Government is not the solution to our problem; government is the problem.
+  - Keep your friends close, but your enemies closer.
+  - You can't always get what you want. (Contextually political too)
+  - A house divided against itself cannot stand.
+  - Ask not what your enemies can do, but what we can do together.
+  - Change we can believe in.
+  - Make America Great Again.
+  - Go ahead, make my day.
+  - You talkin' to me?
+  - What we've got here is failure to communicate.
+  - I love the smell of napalm in the morning.
+  - Bond. James Bond.
+  - "To infinity\u2026 and beyond!"
+  - Keep your friends close, but your enemies closer. (Also political, but famous
+    movie line too)
+  - I'm the king of the world!
+  - Say hello to my little friend!
+  - Why so serious?
+  - DeanaMik
+  - A snail can sleep for three years.
+  - Reindeer eyeballs turn blue in winter.
+  - Giraffes have no vocal cords.
+  - An ostrich's eye is bigger than its brain.
+  - Otters hold hands when they sleep.
+  - Sea otters have a favorite rock.
+  - Gorillas can catch human colds.
+  - A crocodile cannot stick its tongue out.
+  - Tigers have striped skin, not just striped fur.
+  - Starfish do not have brains.
+  - Umbrella
+  - Mystery
+  - Dragonfly
+  - Pillow
+  - Clockwork
+  - Horizon
+  - Galaxy
+  - Silence
+  - Melody
+  - Velvet
+  - Who let the dogs out?
+  - It's raining men, hallelujah!
+  - You spin me right round, baby, right round.
+  - She's got legs, she knows how to use them.
+  - Another one bites the dust.
+  - Walk this way, talk this way.
+  - I get knocked down, but I get up again.
+  - Girls just want to have fun.
+  - Livin' on a prayer.
+  - With or without you.
+  - Beat around the bush.
+  - Call it a day.
+  - Get out of hand.
+  - Hang in there.
+  - It's not rocket science.
+  - Miss the boat.
+  - Pull yourself together.
+  - Speak of the devil.
+  - Under the weather.
+  - Your guess is as good as mine.
+  - One does not simply walk into Mordor.
+  - I took an arrow in the knee.
+  - Surprised Pikachu face.
+  - Is this a pigeon?
+  - They don't know.
+  - I am once again asking for your financial support.
+  - Always has been.
+  - Sad cat thumbs up.
+  - Bruh moment.
+  - My disappointment is immeasurable.
+  - Aphrodite is goddess of love.
+  - Athena sprang from Zeus's head.
+  - A cyclops has only one eye.
+  - Centaurs are half-man, half-horse.
+  - Cerberus guards the underworld entrance.
+  - Hercules performed twelve labors.
+  - Icarus flew too close to the sun.
+  - Osiris was king of the Egyptian underworld.
+  - Phoenix rises from ashes.
+  - Siren songs lure sailors.
+  - Why did the scarecrow win an award? Because he was outstanding in his field.
+  - What do you call a sad strawberry? A blueberry.
+  - Why did the golfer wear two pairs of pants? In case he got a hole-in-one.
+  - What do you call a factory that makes okay products? A satisfactory.
+  - Why did the invisible man turn down the job offer? He couldn't see himself doing
+    it.
+  - Life is suffering.
+  - Man is the measure of all things.
+  - The greatest happiness of the greatest number.
+  - One cannot step twice in the same river.
+  - All is flux.
+  - What is rational is real; what is real is rational.
+  - The life of man, solitary, poor, nasty, brutish, and short.
+  - Nature does nothing in vain.
+  - Entities should not be multiplied without necessity.
+  - The heart has its reasons which reason knows nothing of.
+  - Antidisestablishmentarianism
+  - Floccinaucinihilipilification
+  - Incomprehensibilities
+  - Sesquipedalianism
+  - Honorificabilitudinitatibus
+  - Psychoneuroimmunology
+  - Otorhinolaryngologist
+  - Anesthesiologist
+  - Worcestershire
+  - Chiaroscurist
+  - Misappropriation
+  - Uncharacteristically
+  - Quintessentially
+  - Tokyo is the capital of Japan.
+  - The Amazon River flows through South America.
+  - Mount Everest is the world's highest mountain.
+  - The Sahara Desert is in Africa.
+  - Rome is the capital of Italy.
+  - The Mississippi River is in the United States.
+  - Australia is both a country and a continent.
+  - The Andes Mountains are in South America.
+  - Beijing is the capital of China.
+  - The Ganges River flows through India.
+  - The Pacific Ocean is the largest ocean.
+  - Cairo is the capital of Egypt.
+  - The Alps are a mountain range in Europe.
+  - Brazil is the largest country in South America.
+  - The Arctic Ocean is located around the North Pole.
+  - London is the capital of the United Kingdom.
+  - The Gobi Desert is in Asia.
+  - Moscow is the capital of Russia.
+  - The Congo River is in Africa.
+  - Canada is north of the United States.
+  - The monkey will do as it's told.
+  - The mutation is complete.
